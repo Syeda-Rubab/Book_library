@@ -17,7 +17,7 @@ A simple CLI and Streamlit-based Personal Library Manager to add, remove, search
 ## 🛠 Installation  
 1. Clone the repository:  
    ```bash
-   git clone 
+   git clone https://github.com/Syeda-Rubab/Book_library.git
    cd library-manager
    ```  
 2. Install dependencies:  
